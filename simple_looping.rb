@@ -31,7 +31,7 @@ end
 end
 
 def for_iterator(number_of_times)
-  for counter 1..7 loop do
+  for counter 1..7 do
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
