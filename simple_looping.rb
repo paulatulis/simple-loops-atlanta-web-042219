@@ -34,6 +34,4 @@ def for_iterator(number_of_times)
   for counter 1..7 do
   puts "Welcome to Flatiron School's Web Development Course!"
 end
-end
-end 
 
